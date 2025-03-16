@@ -9,11 +9,13 @@
 
 ### Estrutura de Pastas
 
+```
 extrair_dados_de_pdf_python/
 ├── assets/
 │ └── nota_fiscal_teste.pdf
 ├── main.py
 └── readme.md
+```
 
 
 ## Funcionalidades
